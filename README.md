@@ -6,6 +6,8 @@
 
 Якщо раптом хтось сюди потрапив, зверніть увагу, що це тільки моя думка і я не
 впевнена в більшості перекладів. Зауваженням, рекомендаціям і виправленням буду
-дуже рада. Для цього можна написати в [discussions](https://github.com/natenka/en-uk-notes/discussions)
+дуже рада, особливо з прикладами та посиланнями.
+Для цього можна написати в [discussions](https://github.com/natenka/en-uk-notes/discussions) 
+чи в [issues](https://github.com/natenka/en-uk-notes/issues).
 
 * [Таблиця з перекладом термінів з англійської на українську](https://docs.google.com/spreadsheets/d/1QHmWK5dGWSlDaYmpoOzqQXCZfJHLfI9watEFC9p3-bw/edit?usp=sharing)
